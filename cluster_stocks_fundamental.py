@@ -1,7 +1,7 @@
 import FundamentalAnalysis as fa
 import pandas as pd
 
-api_key = "1205eba77f04c3d59478fd0a26c9ec11"
+api_key = "YOUR OWN API KEY"
 
 ticker_list = ['TMUSR', 'AAPL', 'MSFT', 'AMZN', 'FB',
                'GOOGL', 'GOOG', 'INTC', 'NVDA', 'ADBE',
